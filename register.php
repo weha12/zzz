@@ -40,7 +40,7 @@ $message = ""; // Variable to hold feedback messages
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     if (isset($_POST['register'])) {
         // reCAPTCHA validation
-        $recaptcha_secret = '6Ldl1hErAAAAAMOsi2ZI2dFSmTAmEPS7O_z5yO6B'; // Correct the secret key
+        $recaptcha_secret = '6LcM0EkrAAAAAAPHS7LBTedYjiaVV0FjUWuTAHIJ'; // Correct the secret key
         $recaptcha_response = $_POST['g-recaptcha-response'];
 
         if (empty($recaptcha_response)) {
@@ -307,7 +307,7 @@ button:hover {
             </div>
 
             <!-- reCAPTCHA -->
-            <div class="g-recaptcha" data-sitekey="6Ldl1hErAAAAAMd7S7gsWw8UgAdTLMBYQQ5hhpAQ" data-callback="enableSubmitBtn"></div>
+            <div class="g-recaptcha" data-sitekey="6LcM0EkrAAAAAAAO-VomRddEVr9jmreUyApAQqvt" data-callback="enableSubmitBtn"></div>
 
             <div class="button-group">
                 <button type="submit" name="register" id="mySubmitBtn" disabled="disabled">Register</button>

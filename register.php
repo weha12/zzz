@@ -5,9 +5,9 @@ include('connect.php');
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
 
-require 'PHPMailer\PHPMailer\src\Exception.php';
-require 'PHPMailer\PHPMailer\src\PHPMailer.php';
-require 'PHPMailer\PHPMailer\src\SMTP.php';
+require 'PHPMailer/PHPMailer/src/Exception.php';
+require 'PHPMailer/PHPMailer/src/PHPMailer.php';
+require 'PHPMailer/PHPMailer/src/SMTP.php';
 
 
 // Function to send the OTP email

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <name>Infinix 1</name>
+        <image>1.png</image>
+        <description>This is a powerful and budget-friendly smartphone with amazing features.</description>
+        <price>₱11,000</price>
+        <quantity>9</quantity>
+    </product>
+    <product>
+        <name>Tecno Smartphone 2</name>
+        <image>2.jpg</image>
+        <description>Experience smooth performance with this latest Tecno smartphone.</description>
+        <price>₱13,500</price>
+        <quantity>10</quantity>
+    </product>
+    <product>
+        <name>Realme Smartphone 3</name>
+        <image>3.jpg</image>
+        <description>A sleek and stylish phone with a high-resolution camera.</description>
+        <price>₱14,000</price>
+        <quantity>9</quantity>
+    </product>
+    <product>
+        <name>Oppo Smartphone 4</name>
+        <image>4.jpg</image>
+        <description>Oppo's flagship model featuring fast charging and a great display.</description>
+        <price>₱20,000</price>
+        <quantity>10</quantity>
+    </product>
+    <product>
+        <name>Infinix Smartphone 5</name>
+        <image>5.jpg</image>
+        <description>Affordable yet packed with features for everyday use.</description>
+        <price>₱9,500</price>
+        <quantity>10</quantity>
+    </product>
+    <product>
+        <name>Tecno Smartphone 6</name>
+        <image>6.jpg</image>
+        <description>A reliable smartphone with long battery life and fast processing speed.</description>
+        <price>₱11,000</price>
+        <quantity>10</quantity>
+    </product>
+    <product>
+        <name>Realme Smartphone 7</name>
+        <image>7.jpg</image>
+        <description>Realme's entry-level smartphone with great value for money.</description>
+        <price>₱10,500</price>
+        <quantity>10</quantity>
+    </product>
+    <product>
+        <name>Oppo Smartphone 8</name>
+        <image>8.jpg</image>
+        <description>Oppo's mid-range phone with a large screen and high-quality camera.</description>
+        <price>₱18,000</price>
+        <quantity>10</quantity>
+    </product>
+    <product>
+        <name>Infinix Smartphone 9</name>
+        <image>9.jpg</image>
+        <description>A solid all-rounder with great performance and design.</description>
+        <price>₱11,500</price>
+        <quantity>10</quantity>
+    </product>
+    <product>
+        <name>Tecno Smartphone 10</name>
+        <image>10.jpg</image>
+        <description>Latest smartphone from Tecno with enhanced camera and display.</description>
+        <price>₱13,500</price>
+        <quantity>10</quantity>
+    </product>
+    <product>
+        <name>Realme Smartphone 11</name>
+        <image>11.jpg</image>
+        <description>Great performance and features for an affordable price.</description>
+        <price>₱15,000</price>
+        <quantity>10</quantity>
+    </product>
+    <product>
+        <name>Oppo Smartphone 12</name>
+        <image>12.jpg</image>
+        <description>Oppo's advanced smartphone with top-tier specs for gamers.</description>
+        <price>₱22,000</price>
+        <quantity>10</quantity>
+    </product>
+    <product>
+        <name>Infinix Smartphone 13</name>
+        <image>13.jpg</image>
+        <description>A solid budget phone with great battery and camera.</description>
+        <price>₱8,500</price>
+        <quantity>10</quantity>
+    </product>
+    <product>
+        <name>Tecno Smartphone 14</name>
+        <image>14.jpg</image>
+        <description>Perfect for daily use with a large display and long-lasting battery.</description>
+        <price>₱10,800</price>
+        <quantity>10</quantity>
+    </product>
+    <product>
+        <name>Realme Smartphone 15</name>
+        <image>15.jpg</image>
+        <description>A performance-driven smartphone with a sleek design.</description>
+        <price>₱17,000</price>
+        <quantity>10</quantity>
+    </product>
+    <product>
+        <name>Oppo Smartphone 16</name>
+        <image>16.jpg</image>
+        <description>Flagship smartphone from Oppo with premium features.</description>
+        <price>₱25,000</price>
+        <quantity>10</quantity>
+    </product>
+    <product>
+        <name>Infinix Smartphone 17</name>
+        <image>17.jpg</image>
+        <description>A budget-friendly smartphone with large storage capacity.</description>
+        <price>₱9,200</price>
+        <quantity>10</quantity>
+    </product>
+    <product>
+        <name>Tecno Smartphone 18</name>
+        <image>18.jpg</image>
+        <description>Features a powerful processor and large screen for multimedia use.</description>
+        <price>₱12,000</price>
+        <quantity>10</quantity>
+    </product>
+    <product>
+        <name>Realme Smartphone 19</name>
+        <image>19.jpg</image>
+        <description>Realme's latest model with advanced camera features and good performance.</description>
+        <price>₱16,500</price>
+        <quantity>10</quantity>
+    </product>
+    <product>
+        <name>Oppo Smartphone 20</name>
+        <image>20.jpg</image>
+        <description>High-performance phone for gaming and everyday tasks.</description>
+        <price>₱23,500</price>
+        <quantity>10</quantity>
+    </product>
+</products>

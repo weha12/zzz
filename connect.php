@@ -1,13 +1,17 @@
 <?php
-$servername = "localhost";
-$username = "root";
-$password = "";
-$dbname = "phone";
-
-$conn = new mysqli($servername, $username, $password, $dbname);
-
-if ($conn->connect_error) {
-die("Connection failed: " . $conn->connect_error);
+$serverName = $_SERVER['SERVER_NAME'] ?? 'localhost';
+if ($serverName === 'localhost' || $serverName === '127.0.0.1') {
+    $db_host = 'localhost';
+    $db_user = 'root'; 
+    $db_pass = '';     
+    $db_name = 'phone'; 
+} else {
+    $db_host = 'localhost';
+    $db_user = 'u801377270_hitechph_2025'; 
+    $db_pass = 'Hitechph_2025'; 
+    $db_name = 'u801377270_hitechph_2025'; 
 }
-//echo "Connected successfully";
-?>
+$conn = new mysqli($db_host, $db_user, $db_pass, $db_name);
+if ($conn->connect_error) {
+    die("Connection failed: " . $conn->connect_error);
+}

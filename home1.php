@@ -203,6 +203,79 @@ if (isset($_SESSION['email'])) {
       font-size: 20px;
       text-decoration: none;
     }
+
+    /* Responsive Styles */
+  @media (max-width: 768px) {
+    header {
+      flex-direction: column;
+      align-items: flex-start;
+      padding: 15px 20px;
+    }
+
+    .story-section {
+      padding: 30px 20px;
+    }
+
+    .highlight-section {
+      padding: 30px 20px;
+    }
+
+    footer {
+      padding: 30px 20px;
+      flex-direction: column;
+    }
+
+    nav a {
+      margin: 5px 10px;
+    }
+
+    .story-section h1,
+    .highlight-section h2 {
+      font-size: 22px;
+    }
+
+    .story-content {
+      flex-direction: column;
+    }
+
+    .story-text h2 {
+      font-size: 18px;
+    }
+
+    .stats {
+      flex-direction: column;
+      gap: 15px;
+    }
+
+    .highlights {
+      flex-direction: column;
+      gap: 20px;
+    }
+
+    .highlight {
+      width: 100%;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .btn {
+      padding: 8px 16px;
+      font-size: 13px;
+    }
+
+    .story-text p,
+    .highlight p {
+      font-size: 13px;
+    }
+
+    .highlight h3 {
+      font-size: 15px;
+    }
+
+    .cart-icon {
+      font-size: 18px;
+    }
+  }
   </style>
 </head>
 <body>
